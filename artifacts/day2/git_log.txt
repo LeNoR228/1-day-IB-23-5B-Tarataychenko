@@ -1,0 +1,9 @@
+* bf53afc (HEAD -> main) README update B
+* 96679df README update A
+| * a1883e6 (feature/day2-dataformats) Add PR link Day2
+| * 351f29d (origin/feature/day2-dataformats) Day2: data formats generator + tests
+|/  
+* 6c34f6b (origin/main, origin/feature/day2-readme-B, origin/feature/day2-readme-A, feature/day2-readme-B, feature/day2-readme-A) Final: generated artifacts + tests passing
+* 9e400f0 Step 1: project structure
+* 79a1410 Day1 DevNet setup - Tarataichenko Denis
+* 0517926 Initial commit
